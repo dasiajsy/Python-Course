@@ -1,4 +1,4 @@
 # Python-Course
 DJ Python Course
 
-This reprosetry will whold all of the code I have used on the Python course
+This repository will contain all the code I have used in the Python Course help by Digital Jersey Academy

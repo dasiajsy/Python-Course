@@ -1,6 +1,4 @@
 # Python-Course
 DJ Python Course
 
-##Header goes here
-
-####smaller still
+This reprosetry will whold all of the code I have used on the Python course

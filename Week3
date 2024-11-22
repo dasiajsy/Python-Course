@@ -1,0 +1,21 @@
+Adding two numbers together
+
+def main():
+    print("This program adds two numbers")
+    num1 = input ("Enter a number") #here 
+    num1 = int(num1)
+    num2 = input ("enter a different number")
+    num2 = int(num2)
+
+    total = num1 + num2
+    print ("The total is", total)
+
+Average 2 Numbers
+
+def main():
+    print("this program averages two numbers")
+    num1 = float(input("Enter the 1st number:"))
+    num2 = float(input("Enter the 2nd number:"))
+    total = (num1 + num2) / 2
+    print ("The average is", total)
+
